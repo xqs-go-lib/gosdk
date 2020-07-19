@@ -1,4 +1,4 @@
-module github.com/felix-xqs/gosdk
+module github.com/xqs-go-lib/gosdk
 
 go 1.12
 
